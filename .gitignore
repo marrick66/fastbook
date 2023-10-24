@@ -1,4 +1,5 @@
 .gitattributes
+venv/*
 models/
 tmp/
 *.bak
